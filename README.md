@@ -19,7 +19,7 @@ Use Context to save all of the user's completed workouts in the form of:
 Use `FlatList` component to display all of the workouts When users click a button: **Previous Workouts** from your home screen.
 
 Use AsyncStorage to save all meditation in the phone for next loading app
-  
+
 ### Application Sketch
 ```
       <LOGO>
@@ -28,7 +28,7 @@ Use AsyncStorage to save all meditation in the phone for next loading app
 Meditation   Rest
 [10]         [2]
 
- <START> || <STOP>
+ <START> || <STOP> || <PAUSE/RESUME>
  
 <Previous Mediation>
 ```
